@@ -1,1 +1,1 @@
-# boj_python
+# BOJ Python
