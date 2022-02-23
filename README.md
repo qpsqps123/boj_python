@@ -1,1 +1,1 @@
-# BOJ Python
+# BaekjoonOnlineJudge_Python
